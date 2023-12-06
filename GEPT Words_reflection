@@ -39,7 +39,7 @@ CBF110045_cambridge.Text += $"{hyperlinkedEnglishValue} => {chineseValue} <br/>"
 <h2>程式執行畫面</h2>
 在這裡，你可以分享你的程式執行畫面，並解釋每個畫面的功能。
 <h3>刪除資料前會先跟使用者做確認. 確認訊息為"你確定要刪除嗎?"</h3>
-<h3><img src=""></img></h3>
+<h3><img src="螢幕擷取畫面 (21).png"></h3>
 <h3>點選DropDownList中的項目會顯示對應的中文解釋，依次記錄在下方。且英文有超連結</h3>
 <h3><img src=""></img></h3>
 <h3>按下"測驗去"按鈕後會進入測驗。測驗題目為最近在DropDownList中呈現的單字。題目會呈現中文解釋及英文首字元及底線提示有幾個字元。</h3>
